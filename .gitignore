@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Environments
+.venv/
+venv/
+env/
+
+# Large model files
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
