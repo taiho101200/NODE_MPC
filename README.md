@@ -1,4 +1,4 @@
-# NODE-MPC for Controlled Van der Pol Oscillator
+# NODE-MPC for Controlled MVDC shipboard power systems 
 
 This repository is a learning-oriented implementation of **Neural Ordinary Differential Equations (NODE)** and **Model Predictive Control (MPC)** using thea published naval shipboard power system model as a case study.
 
